@@ -1,16 +1,32 @@
 # login_screen
 
-A new Flutter project.
+A test Flutter project.
+
+<!-- GETTING STARTED -->
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a local copy up and running follow these simple example steps.
 
-A few resources to get you started if this is your first Flutter project:
+Prerequisite: https://flutter.dev/docs/get-started/install
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. To get started, fork this repository to your GitHub account.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Clone the repo.
+    ```sh
+     git clone https://github.com/<your-username>/login_screen.git
+    ```
+3. Install packages.
+    ```sh
+     flutter pub get
+    ```
+4. Run project.
+    ```sh
+     flutter run
+    ```
+
+## Getting Started
+
+| Light Mode                                               | Dark Mode                                              |   
+|:--------------------------------------------------------:|:------------------------------------------------------:|
+| <img src="READMEdocs/light.png" width="320" ></img> | <img src="READMEdocs/dark.png" width="320"></img> |
