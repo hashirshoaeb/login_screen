@@ -6,6 +6,8 @@ A test Flutter project.
 
 ## Getting Started
 
+`flutter: ^2.10.3`
+
 To get a local copy up and running follow these simple example steps.
 
 Prerequisite: https://flutter.dev/docs/get-started/install
